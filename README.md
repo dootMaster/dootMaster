@@ -5,7 +5,7 @@ Software engineer with a demonstrated mindset for clean, modular code in order t
 Outside of work, I like to play guitar and cook nice meals.
 
 ## Work
-- **Full Stack Developer at Sachi**
+- **Full Stack Developer at Sachi** 9/2022 - 7/2023
     -   Generating a REST API with Express and Apollo GraphQL to handle user details and perform booking services.
     -   Designing and adapting MongoDB models, queries to accommodate evolving product specifications, providing
 flexibility to meet the demands of a rapidly expanding product.
@@ -15,7 +15,7 @@ designers' specifications and design guidelines..
 guidance throughout the project lifecycle. Assisted in their professional development by sharing best practices,
 conducting code reviews, and fostering a collaborative learning environment.
 
-- **Contributor at Zulip**
+- **Contributor at Zulip** 9/2022
     -  Built feature request to edit topic name in mobile app.
     -  Solved an issue regarding browser and mobile UI experience mismatch.
     -  Utilized established Git commit discipline in contributions.
