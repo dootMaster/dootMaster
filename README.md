@@ -2,7 +2,7 @@
 
 Software engineer with a demonstrated mindset for clean, modular code in order to achieve scalability and optimization. I work with JavaScript, TypeScript, React.js, Express.js, various CSS libraries, PostgreSQL, MySQL, MongoDB, AWS, and NGINX to create full-stack applications. I'm currently developing a web application that helps guitarists improve their fretboard navigation abilities.
 
-Outside of work, I like to play guitar and cook nice meals.
+Outside of work, I like to [play guitar](https://www.instagram.com/p/CToWJs7FI9M/?utm_source=ig_web_copy_link) and [cook nice meals](https://www.instagram.com/p/CS5p-90rk6n/?utm_source=ig_web_copy_link).
 
 ## Work
 - **Full Stack Developer at Sachi** 9/2022 - 7/2023
