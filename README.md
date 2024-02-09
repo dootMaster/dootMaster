@@ -10,7 +10,7 @@ Outside of work, I like to [play guitar](https://www.instagram.com/p/CToWJs7FI9M
     -   Designing and adapting MongoDB models, queries to accommodate evolving product specifications, providing
 flexibility to meet the demands of a rapidly expanding product.
     -  Supporting the development of the user view using Next.js and Chakra UI, ensuring alignment with product
-designers' specifications and design guidelines..
+designers' specifications and design guidelines.
     -  Providing technical guidance, mentorship, and direct oversight to a junior engineer, offering support and
 guidance throughout the project lifecycle. Assisted in their professional development by sharing best practices,
 conducting code reviews, and fostering a collaborative learning environment.
