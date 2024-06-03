@@ -4,7 +4,18 @@ Software engineer with a demonstrated mindset for clean, modular code in order t
 
 Outside of work, I like to [play guitar](https://www.instagram.com/p/CToWJs7FI9M/?utm_source=ig_web_copy_link) and [cook nice meals](https://www.instagram.com/p/CS5p-90rk6n/?utm_source=ig_web_copy_link).
 
+## Current Role
+- **Full Stack Developer at Nucleos**
+    - Planning, developing, and deploying a scalable product catalog, handling both frontend and backend components.
+    - Integrating Google Datastore and Firebase buckets for image handling.
+    - Creating intuitive user interfaces and ensured seamless user experience in NextJS.
+
 ## Work
+- **Contract Full Stack Developer at Breastfeeding Resource Clinic** 3/2024 - 4/2024
+    - Redesigned and rebuilt a legacy service area search feature that improves client QoL.
+    - Utilized geopoint for location search algorithms.
+    - Worked with non-technical personnel to build product to spec.
+    - Created technical and non-technical documentation for features.
 - **Full Stack Developer at Sachi** 9/2022 - 7/2023
     -   Generating a REST API with Express and Apollo GraphQL to handle user details and perform booking services.
     -   Designing and adapting MongoDB models, queries to accommodate evolving product specifications, providing
